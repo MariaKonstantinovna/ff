@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://api.example.com",
+    "headers": {
+        "Authorization": "Bearer YOUR_TOKEN"
+    }
+}
